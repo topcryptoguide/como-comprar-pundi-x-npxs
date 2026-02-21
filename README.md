@@ -1,1 +1,3 @@
-# como-comprar-pundi-x-npxs
+[**Cómo comprar Pundi X (NPXS)**](https://topcryptoguide.com/como-comprar-pundi-x-npxs/)
+
+Este artículo explica **cómo comprar Pundi X (NPXS)**, el token nativo de la plataforma **Pundi X**, que busca llevar los pagos con criptomonedas a comercios físicos mediante terminales de punto de venta. Para adquirir NPXS normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (por ejemplo Binance, KuCoin o Gate.io), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunos exchanges también permiten **comprar NPXS con tarjeta de crédito/débito** según disponibilidad. Tras la compra, se recomienda **mover tus tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
